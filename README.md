@@ -8,7 +8,7 @@ Cuento con una trayectoria de 4 años en Desarrollo de Software, con diversas te
 
 * 🌍  Vivo en Santiago, Chile
 * 🧠  Actualmente estoy aprendiendo Java en el Bootcamp de Talento Digital
-* 🤝  Abieto a colaborar en proyecto con JavaScript, React y NextJs
+* 🤝  Abieto a colaborar en proyectos con JavaScript, React o NextJs
 
 ### Skills
 
