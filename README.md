@@ -4,7 +4,7 @@ Holas! 👋 Soy Marcelo Navarro
 Desarrollador Full Stack
 ------------------------
 
-Cuento con una trayectoria de 4 años en Desarrollo de Software, con diversas tecnologías.
+Cuento con una trayectoria de 4 años en Desarrollo de Software con diversas tecnologías.
 
 * 🌍  Vivo en Santiago, Chile
 * 🧠  Actualmente estoy aprendiendo Java en el Bootcamp de Talento Digital
@@ -35,12 +35,12 @@ Cuento con una trayectoria de 4 años en Desarrollo de Software, con diversas te
 
 <p align="left"> <a href="https://www.github.com/nvvvrro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://nvvvrro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nvvvrro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/navarro-marcelo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Badges 👇🏻
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/nvvvrro"><img src="https://github-readme-stats.vercel.app/api?username=nvvvrro&show_icons=true&hide=issues,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="nvvvrro's GitHub stats" /></a>
 
-<b>Top Repositories</b>
+<b>Mira lo que estoy haciendo (Repos) </b>
 
 <div width="100%" align="center"><a href="https://github.com/nvvvrro/codingDojo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nvvvrro&repo=codingDojo&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/nvvvrro/portafolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nvvvrro&repo=portafolio&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
