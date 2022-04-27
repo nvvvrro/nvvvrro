@@ -1,8 +1,8 @@
 Holas! 👋 Soy Marcelo Navarro
 ================================
 
-Desarrollador Full Stack
-------------------------
+Desarrollador Full Stack 🚀
+---------------------------
 
 Cuento con una trayectoria de 4 años en Desarrollo de Software con diversas tecnologías.
 
